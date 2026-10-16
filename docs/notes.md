@@ -1,6 +1,6 @@
 # Alcohol 120%
 
-Alcohol Soft maintains Alcohol 120%. This repo only describes the Windows build and links the live card.
+Use the EN or RU program URL. Installers are not stored in git.
 
 Alcohol 120% on Windows 10/11 x64. 12 MB. Requirements, screenshots, MoggyDay Launcher.
 

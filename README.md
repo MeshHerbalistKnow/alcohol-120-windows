@@ -2,7 +2,7 @@
 
 Alcohol 120% on Windows 10/11 x64. 12 MB. Requirements, screenshots, MoggyDay Launcher.
 
-Site: [EN](https://moggydayprogram.com/en/programs/alcohol-120) · [RU](https://moggydayprogram.com/programs/alcohol-120) · [Pages](https://calmtannerintensify.github.io/alcohol-120-windows/)
+Site: [EN](https://moggydayprogram.com/en/programs/alcohol-120) · [RU](https://moggydayprogram.com/programs/alcohol-120) · [Pages](https://meshherbalistknow.github.io/alcohol-120-windows/)
 
 <p>
   <a href="https://moggydayprogram.com/programs/alcohol-120"><img src="docs/media/preview.jpg" alt="Alcohol 120%" width="640"></a>
@@ -31,4 +31,4 @@ Also:
 - [UltraISO](https://moggydayprogram.com/programs/ultraiso)
 - [BurnAware Professional](https://moggydayprogram.com/programs/burnaware-professional)
 
-Pages: https://calmtannerintensify.github.io/alcohol-120-windows/
+Pages: https://meshherbalistknow.github.io/alcohol-120-windows/
